@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/tkmpypy/tkmpypy/main/profile-summary-card-output/yeblu/4-productive-time.svg)
+```
+
+    
